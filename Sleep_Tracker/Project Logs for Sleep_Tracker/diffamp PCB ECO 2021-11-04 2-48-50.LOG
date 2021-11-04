@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=NetAR1_2 Pin=AR1-2
+Removed Pin From Net: NetName=GND Pin=AR1-4
+Removed Pin From Net: NetName=NetAR1_6 Pin=AR1-6
+Removed Pin From Net: NetName=VCC Pin=AR1-7
+Removed Pin From Net: NetName=GND Pin=AR2-4
+Removed Pin From Net: NetName=NetAR2_6 Pin=AR2-6
+Removed Pin From Net: NetName=VCC Pin=AR2-7
+Removed Pin From Net: NetName=GND Pin=AR3-4
+Removed Pin From Net: NetName=NetAR3_6 Pin=AR3-6
+Removed Pin From Net: NetName=VCC Pin=AR3-7
+Removed Pin From Net: NetName=GND Pin=AR4-4
+Removed Pin From Net: NetName=NetAR4_6 Pin=AR4-6
+Removed Pin From Net: NetName=VCC Pin=AR4-7
+Removed Pin From Net: NetName=GND Pin=AR5-4
+Removed Pin From Net: NetName=VCC Pin=AR5-7
+Removed Pin From Net: NetName=GND Pin=AR6-4
+Removed Pin From Net: NetName=VCC Pin=AR6-7
+Removed Member From Class: ClassName=diffamp Member=AR1
+Removed Member From Class: ClassName=diffamp Member=AR2
+Removed Member From Class: ClassName=diffamp Member=AR3
+Removed Member From Class: ClassName=diffamp Member=AR4
+Removed Member From Class: ClassName=diffamp Member=AR5
+Removed Member From Class: ClassName=diffamp Member=AR6
+Added Component: Designator=U3(FP-DCK0005A-IPC_B)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U4(FP-DCK0005A-IPC_B)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U5(FP-DCK0005A-IPC_B)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U6(FP-DCK0005A-IPC_B)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U7(FP-DCK0005A-IPC_B)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U8(FP-DCK0005A-IPC_B)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetAR1_2 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetAR1_6 Pin=U3-4
+Added Pin To Net: NetName=VCC Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=NetAR2_6 Pin=U4-4
+Added Pin To Net: NetName=VCC Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetAR3_6 Pin=U5-4
+Added Pin To Net: NetName=VCC Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=NetAR4_6 Pin=U6-4
+Added Pin To Net: NetName=VCC Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=VCC Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=VCC Pin=U8-5
+Change Net Name : Old Net Name=NetAR1_2 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetAR1_6 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetAR2_6 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetAR3_6 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetAR4_6 New Net Name=NetC7_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R7-1
+Added Pin To Net: NetName=NetC3_2 Pin=U8-3
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R6-2
+Added Pin To Net: NetName=NetC5_1 Pin=U4-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R16-1
+Added Pin To Net: NetName=NetC8_2 Pin=U7-3
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=R13-2
+Added Pin To Net: NetName=NetC9_1 Pin=U5-1
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=R15-2
+Added Pin To Net: NetName=NetC10_1 Pin=U6-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R9-1
+Added Pin To Net: NetName=NetR8_2 Pin=U3-3
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=R11-1
+Added Pin To Net: NetName=NetR10_2 Pin=U4-3
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=R18-1
+Added Pin To Net: NetName=NetR17_2 Pin=U5-3
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=R20-1
+Added Pin To Net: NetName=NetR19_2 Pin=U6-3
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=R22-1
+Added Pin To Net: NetName=NetR21_2 Pin=U7-1
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=U7-4
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=R24-1
+Added Pin To Net: NetName=NetR23_2 Pin=U8-1
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=U8-4
+Added Net: Name=NetR24_2
+Added Member To Class: ClassName=diffamp Member=Component U3 LM321LVIDCKR
+Added Member To Class: ClassName=diffamp Member=Component U4 LM321LVIDCKR
+Added Member To Class: ClassName=diffamp Member=Component U5 LM321LVIDCKR
+Added Member To Class: ClassName=diffamp Member=Component U6 LM321LVIDCKR
+Added Member To Class: ClassName=diffamp Member=Component U7 LM321LVIDCKR
+Added Member To Class: ClassName=diffamp Member=Component U8 LM321LVIDCKR
